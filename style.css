@@ -23,3 +23,8 @@ body{
 .word:hover{
     color:white
 }
+@media only screen and (max-width: 600px) {
+    .word{
+        font-size: 250%;
+    }
+  }
